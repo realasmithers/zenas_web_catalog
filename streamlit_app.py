@@ -1,5 +1,5 @@
 import streamlit as st
-import snowflake-connector
+import snowflake.connector
 
 #st.title("My parent's new healthy diner")
 
